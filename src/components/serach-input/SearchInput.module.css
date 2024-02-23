@@ -1,0 +1,22 @@
+.search_container {
+	position: relative;
+	max-width: 260px;
+}
+
+.search_input {
+	padding: 0px 20px 0px 36px;
+	background-color: #f8f4fc;
+	border: none;
+	height: 44px;
+	max-width: 260px;
+	width: 100%;
+	border-radius: 8px;
+}
+
+.search_icon {
+	position: absolute;
+	top: 50%;
+	left: 10px;
+	transform: translateY(-50%);
+	color: #aaa;
+}
